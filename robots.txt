@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoopohji.solvi.is/sitemap.xml
